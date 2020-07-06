@@ -1,0 +1,11 @@
+{
+  "name": "commongames",
+  "version": "0.1.0",
+  "description": "Testing steam api to find common games between two users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Bennett",
+  "license": "ISC"
+}
